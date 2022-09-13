@@ -7,5 +7,4 @@ for now it's a wps cuz school
 
 ![81-d0FG6XXL _AC_SL1500_](https://user-images.githubusercontent.com/102983952/189949568-288f39e3-fa78-4c74-b1c0-2897bc4a78d3.jpg)
 
-also no fancy gui so fuck you
-test the script @ https://www.lua.org/cgi-bin/demo
+Made it in like 1 hour for a thing that I told my friend that I made but that didn't work so I made this lmaoooo
